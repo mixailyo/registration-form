@@ -219,6 +219,7 @@ form {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 460px;
+  min-height: 300px;
   padding: 40px 30px;
   background: #ffffff;
   box-shadow: 0px 12px 24px rgba(44, 39, 56, 0.02),
